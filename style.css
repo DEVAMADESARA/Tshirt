@@ -23,7 +23,7 @@
 .navbar .navleft{
     width: 20%;
     height: inherit;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     float: left;
     line-height: 60px;
     padding-left: 6%;
@@ -39,7 +39,7 @@
     width: 80%;
     height: inherit;
     float: left;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     line-height: 60px;
 }
 .navright a{
